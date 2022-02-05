@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "PRO-C69",
-    "slug": "PRO-C69",
+    "name": "PRO-C68",
+    "slug": "PRO-C68",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -14,7 +14,7 @@
       "fallbackToCacheTimeout": 0
     },
     "assetBundlePatterns": [
-      "**/*"
+      "/"
     ],
     "ios": {
       "supportsTablet": true
